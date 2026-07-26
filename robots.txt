@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://water-leak-repair-dallas.netlify.app/sitemap.xml
+Sitemap: https://professionalsiddique-afk.github.io/water-leak-repair-dallas/sitemap.xml
