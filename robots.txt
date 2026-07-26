@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://water-leak-repair-dallas.netlify.app/sitemap.xml
